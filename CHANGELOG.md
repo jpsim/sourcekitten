@@ -6,12 +6,15 @@
 
 #### Enhancements
 
+* Support compilation with Musl C standard library.  
+  [SimplyDanny](https://github.com/SimplyDanny)
+
 * Build without warnings with Swift 6 compiler.  
   [SimplyDanny](https://github.com/SimplyDanny)
 
 * Generate docs cleanly with Swift 6 compiler.  
   [John Fairhurst](https://github.com/johnfairh)
-  [#821]((https://github.com/realm/SourceKitten/issues/821)
+  [#821](https://github.com/realm/SourceKitten/issues/821)
 
 #### Bug Fixes
 
